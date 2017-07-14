@@ -130,6 +130,9 @@ STATIC_URL = '/static/'
 
 # ------------MySettings------------------
 
+STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
 AUTH_USER_MODEL = 'customauth.MyUser'
 
 REST_FRAMEWORK = {

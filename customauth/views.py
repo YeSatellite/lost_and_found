@@ -58,4 +58,4 @@ class AuthMethod(ViewSet):
         request.user.auth_token.delete()
 
         # TODO: change log message
-        return Response(status=status.HTTP_200_OK, data={"detail": "user successfully logout"})
+        return Response(status=status.HTTP_200_OK, data={"message": "user successfully logout"})

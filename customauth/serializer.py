@@ -4,12 +4,11 @@ from customauth.models import MyUser
 
 
 class UserSerializer(serializers.ModelSerializer):
-    # username = serializers.ReadOnlyField()
-    # email = serializers.ReadOnlyField()
 
     class Meta:
         model = MyUser
-        fields = ('username', 'email', 'first_name', 'last_name', 'phone_number', 'date_of_birth')
+        fields = ('id', 'username', 'email', 'first_name', 'last_name', 'phone_number', 'date_of_birth')
+        read_only_fields = ('id', 'username', 'email')
 
 
 class UserRegSerializer(serializers.ModelSerializer):
@@ -26,6 +25,13 @@ class UserRegSerializer(serializers.ModelSerializer):
         return user
 
 
-class LoginSerializer(serializers.Serializer):
+class UserLoginSerializer(serializers.Serializer):
     username = serializers.CharField(max_length=20, required=True)
     password = serializers.CharField(max_length=20, required=True)
+
+    def create(self, validated_data):
+        pass
+
+    def update(self, instance, validated_data):
+        pass
+

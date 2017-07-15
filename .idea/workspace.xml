@@ -45,8 +45,8 @@
       <file leaf-file-name="routers.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../django_venv/django_venv0/Lib/site-packages/rest_framework/routers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="373" column="0" lean-forward="true" selection-start-line="373" selection-start-column="0" selection-end-line="373" selection-end-column="0" />
+            <state relative-caret-position="104">
+              <caret line="377" column="17" lean-forward="true" selection-start-line="377" selection-start-column="17" selection-end-line="377" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -470,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500104452958</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&#10;dasdsad">
+      <created>1500104645721</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1500104645721</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -538,7 +545,8 @@
     <MESSAGE value="added profile" />
     <MESSAGE value="gitignore v1" />
     <MESSAGE value="gitignore v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore v2" />
+    <MESSAGE value="&#10;dasdsad" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;dasdsad" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -933,8 +941,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../django_venv/django_venv0/Lib/site-packages/rest_framework/routers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="373" column="0" lean-forward="true" selection-start-line="373" selection-start-column="0" selection-end-line="373" selection-end-column="0" />
+        <state relative-caret-position="104">
+          <caret line="377" column="17" lean-forward="true" selection-start-line="377" selection-start-column="17" selection-end-line="377" selection-end-column="17" />
           <folding />
         </state>
       </provider>

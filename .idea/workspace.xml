@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="640129f5-55d9-4629-9e52-24f590f7a630" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/customauth/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/post/migrations/0001_initial.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="db.sqlite3" />
@@ -48,8 +45,8 @@
       <file leaf-file-name="routers.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../django_venv/django_venv0/Lib/site-packages/rest_framework/routers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="372" column="42" lean-forward="false" selection-start-line="372" selection-start-column="42" selection-end-line="372" selection-end-column="42" />
+            <state relative-caret-position="237">
+              <caret line="373" column="0" lean-forward="true" selection-start-line="373" selection-start-column="0" selection-end-line="373" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -466,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500104282444</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="gitignore v2">
+      <created>1500104452958</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1500104452958</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -929,8 +933,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../django_venv/django_venv0/Lib/site-packages/rest_framework/routers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="372" column="42" lean-forward="false" selection-start-line="372" selection-start-column="42" selection-end-line="372" selection-end-column="42" />
+        <state relative-caret-position="237">
+          <caret line="373" column="0" lean-forward="true" selection-start-line="373" selection-start-column="0" selection-end-line="373" selection-end-column="0" />
           <folding />
         </state>
       </provider>

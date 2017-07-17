@@ -46,7 +46,8 @@ class AuthMethod(ViewSet):
             'password': serializer.validated_data['password']
         }
         serializer = AuthTokenSerializer(data=data)
-        serializer.is_valid(raise_exception=True)
+        if not serializer.is_valid():
+            return Response(status=status.HTTP_403_FORBIDDEN, data={"detail": "Username or password is incorrect."})
 
         user = serializer.validated_data['user']
         Token.objects.get_or_create(user=user)

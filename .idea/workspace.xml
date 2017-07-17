@@ -23,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/customauth/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="291">
-              <caret line="49" column="63" lean-forward="false" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+              <caret line="49" column="60" lean-forward="false" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
               <folding>
                 <element signature="e#0#61#0" expanded="true" />
                 <element signature="e#567#673#0" expanded="false" />
@@ -483,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500279891377</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="login error">
+      <created>1500280294484</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1500280294484</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -946,7 +953,7 @@
     <entry file="file://$PROJECT_DIR$/customauth/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
-          <caret line="49" column="63" lean-forward="false" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+          <caret line="49" column="60" lean-forward="false" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
           <folding>
             <element signature="e#0#61#0" expanded="true" />
             <element signature="e#567#673#0" expanded="false" />

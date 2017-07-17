@@ -14,8 +14,4 @@ media/**
 !**/migrations/__init__.py
 .idea/vcs.xml
 .idea/workspace.xml
-customauth/__pycache__/permissions.cpython-36.pyc
 templates/
-customauth/__pycache__/
-lost_and_found/__pycache__/
-post/__pycache__/
